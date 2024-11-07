@@ -26,7 +26,7 @@ namespace Aufgabe_13
                 }
                 Console.WriteLine("\n");
             }
-            Console.ReadKey();
+            Console.ReadKey();          
         }
     }
 }
