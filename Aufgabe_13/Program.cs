@@ -19,7 +19,7 @@ namespace Aufgabe_13
                     {
                         Console.Write("* ");
                     }
-                    else
+                    else 
                     {
                         Console.Write("  ");
                     }
